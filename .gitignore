@@ -1,0 +1,25 @@
+# Python build artifacts
+__pycache__/
+*.pyc
+build/
+dist/
+
+# Conda environment files
+env/
+venv/
+*.egg-info/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# IDE configuration files
+.idea/
+.vscode/
+
+# Data and results (chúng ta có thể tạo thư mục riêng cho chúng)
+results/
+*.csv
+*.json
+*.png
+*.pdf
+
